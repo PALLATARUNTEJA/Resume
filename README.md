@@ -36,15 +36,19 @@ This repository contains the resume of **Palla Tarun Teja**, an aspiring **Elect
   *VLSI Design for Testability* (Designed a 4-bit Arithmetic Logic Unit using Verilog HDL.)
 
 ## 🛠 Technical Skills
-- **Programming Languages:** `Python`, `HTML`, `CSS`, `JavaScript`, `MySQL`, `C#`, Basics of `Java`
+- **Programming Languages:** `Python`, `HTML`, `CSS`, `JavaScript`, `MySQL`, `Machine learning`, Basics of `Java`
 - **Developer Tools:** `VS Code`, `Command Prompt`
 - **Frameworks:** `Bootstrap`, `React.js`
 - **Soft Skills:** English, Telugu, Hindi
 
 ## 🚀 Projects
-- **VaxHub - Vaccine Distribution System**
-  - ✅ Automated hospital vaccine distribution.
-  - ✅ Implemented hospital registration with stock tracking.
+- **Haze-Robust Number Plate Detection System**
+  - ✅ Developed a system to detect and recognize number plates in hazy environments using YOLOv8 for detection,
+ PaddleOCR for text recognition, and Dark Channel Prior for image dehazing.
+  - ✅ Built a responsive frontend using React.js and managed backend operations with Flask.
+- **Tic Tac Toe Game**
+  - ✅Created a simple Tic Tac Toe game using HTML, CSS, and JavaScript, showcasing DOM manipulation and game logic
+ implementation.
 - **Amazon UI Clone**
   - ✅ Developed an Amazon website UI clone using `HTML` & `CSS`.
 
